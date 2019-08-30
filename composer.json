@@ -2,6 +2,12 @@
     "name": "xjw/tools",
     "description": "tools",
     "type": "library",
+    "keywords": [
+        "tool",
+        "tools",
+        "php tools",
+        "help"
+    ],
     "require": {
         "php": ">=5.6"
     },
